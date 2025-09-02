@@ -1,2 +1,9 @@
-This report details the application of data mining techniques to predict the age of abalones using a dataset from the UCI Machine Learning Repository. Accurate abalone age prediction is crucial for sustainable fisheries management, conservation efforts, and biological research, but traditional methods are often destructive and time-consuming.
-The study framed the problem as a regression task and evaluated four prominent machine learning algorithms: XGBoost, LightGBM, CatBoost, and RandomForest. After initial evaluation, CatBoost demonstrated superior performance in predicting the number of abalone rings based on physical measurements. Hyperparameter tuning using Optuna further optimized the CatBoost model, improving its accuracy. The final tuned model provides a practical and reasonably accurate non-destructive method for estimating abalone age. This data-driven approach offers a valuable tool for researchers and managers, enabling more efficient and ethical data collection to support the health and sustainability of abalone populations.
+This report details the application of data mining techniques to predict the age of abalones using a dataset 
+from the UCI Machine Learning Repository. Accurate abalone age prediction is crucial for sustainable fisheries management, 
+conservation efforts, and biological research, but traditional methods are often destructive and time-consuming.
+The study framed the problem as a regression task and evaluated four prominent machine learning algorithms: XGBoost, 
+LightGBM, CatBoost, and RandomForest. After initial evaluation, CatBoost demonstrated superior performance in predicting 
+the number of abalone rings based on physical measurements. Hyperparameter tuning using Optuna further optimized the 
+CatBoost model, improving its accuracy. The final tuned model provides a practical and reasonably accurate non-destructive
+method for estimating abalone age. This data-driven approach offers a valuable tool for researchers and managers, 
+enabling more efficient and ethical data collection to support the health and sustainability of abalone populations.
