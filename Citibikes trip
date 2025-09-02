@@ -1,1 +1,2 @@
-A google data analytics practice on how to use CONCAT function in SQL
+A google data analytics practice on how to use CONCAT function in SQL to calculate the number of trips by adding 
+the star time and end time using CONCAT
